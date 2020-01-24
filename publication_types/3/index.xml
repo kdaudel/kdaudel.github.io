@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>3 |  </title>
-    <link>/publication_types/3/</link>
-      <atom:link href="/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+    <link>/kdaudel.github.io/publication_types/3/</link>
+      <atom:link href="/kdaudel.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Kamélia Daudel 2020 </copyright><lastBuildDate>Thu, 26 Sep 2019 16:34:54 +0100</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/kdaudel.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>3</title>
-      <link>/publication_types/3/</link>
+      <link>/kdaudel.github.io/publication_types/3/</link>
     </image>
     
     <item>
       <title>The $ f $-Divergence Expectation Iteration Scheme</title>
-      <link>/publication/fei/</link>
+      <link>/kdaudel.github.io/publication/fei/</link>
       <pubDate>Thu, 26 Sep 2019 16:34:54 +0100</pubDate>
-      <guid>/publication/fei/</guid>
+      <guid>/kdaudel.github.io/publication/fei/</guid>
       <description></description>
     </item>
     

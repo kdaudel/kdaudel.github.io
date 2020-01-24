@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title> </title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <link>/kdaudel.github.io/</link>
+      <atom:link href="/kdaudel.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description> </description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Kamélia Daudel 2020 </copyright><lastBuildDate>Tue, 07 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/kdaudel.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title> </title>
-      <link>/</link>
+      <link>/kdaudel.github.io/</link>
     </image>
     
     <item>
       <title>Bayes Comp 2020</title>
-      <link>/talk/bayescomp/</link>
+      <link>/kdaudel.github.io/talk/bayescomp/</link>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/talk/bayescomp/</guid>
+      <guid>/kdaudel.github.io/talk/bayescomp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Workshop: Probabilistic Methods in Computational Statistics (II)</title>
-      <link>/talk/workshoptsp/</link>
+      <link>/kdaudel.github.io/talk/workshoptsp/</link>
       <pubDate>Fri, 22 Nov 2019 22:51:18 +0100</pubDate>
-      <guid>/talk/workshoptsp/</guid>
+      <guid>/kdaudel.github.io/talk/workshoptsp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The $ f $-Divergence Expectation Iteration Scheme</title>
-      <link>/publication/fei/</link>
+      <link>/kdaudel.github.io/publication/fei/</link>
       <pubDate>Thu, 26 Sep 2019 16:34:54 +0100</pubDate>
-      <guid>/publication/fei/</guid>
+      <guid>/kdaudel.github.io/publication/fei/</guid>
       <description></description>
     </item>
     
