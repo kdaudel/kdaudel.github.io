@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors |  </title>
-    <link>/kdaudel.github.io/authors/</link>
-      <atom:link href="/kdaudel.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://kdaudel.github.io/authors/</link>
+      <atom:link href="https://kdaudel.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Kamélia Daudel 2020 </copyright><lastBuildDate>Thu, 26 Sep 2019 16:34:54 +0100</lastBuildDate>
     <image>
-      <url>/kdaudel.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://kdaudel.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Authors</title>
-      <link>/kdaudel.github.io/authors/</link>
+      <link>https://kdaudel.github.io/authors/</link>
     </image>
     
     <item>
       <title>F. Portier and F. Roueff</title>
-      <link>/kdaudel.github.io/authors/f.-portier-and-f.-roueff/</link>
+      <link>https://kdaudel.github.io/authors/f.-portier-and-f.-roueff/</link>
       <pubDate>Thu, 26 Sep 2019 16:34:54 +0100</pubDate>
-      <guid>/kdaudel.github.io/authors/f.-portier-and-f.-roueff/</guid>
+      <guid>https://kdaudel.github.io/authors/f.-portier-and-f.-roueff/</guid>
       <description></description>
     </item>
     
     <item>
       <title>K. Daudel</title>
-      <link>/kdaudel.github.io/authors/k.-daudel/</link>
+      <link>https://kdaudel.github.io/authors/k.-daudel/</link>
       <pubDate>Thu, 26 Sep 2019 16:34:54 +0100</pubDate>
-      <guid>/kdaudel.github.io/authors/k.-daudel/</guid>
+      <guid>https://kdaudel.github.io/authors/k.-daudel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R. Douc</title>
-      <link>/kdaudel.github.io/authors/r.-douc/</link>
+      <link>https://kdaudel.github.io/authors/r.-douc/</link>
       <pubDate>Thu, 26 Sep 2019 16:34:54 +0100</pubDate>
-      <guid>/kdaudel.github.io/authors/r.-douc/</guid>
+      <guid>https://kdaudel.github.io/authors/r.-douc/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>/kdaudel.github.io/authors/admin/</link>
+      <link>https://kdaudel.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/kdaudel.github.io/authors/admin/</guid>
+      <guid>https://kdaudel.github.io/authors/admin/</guid>
       <description>&lt;p&gt;&amp;hellip;a second-year PhD student in the Image Data Signal (IDS) department at &lt;a href=&#34;https://www.telecom-paris.fr/&#34;&gt;Télécom Paris&lt;/a&gt; under the supervision of &lt;a href=&#34;http://teukdey.free.fr/wordpress/&#34;&gt;Randal Douc&lt;/a&gt;, &lt;a href=&#34;https://perso.telecom-paristech.fr/roueff/&#34;&gt;François Roueff&lt;/a&gt; and &lt;a href=&#34;https://sites.google.com/site/fportierwebpage/&#34;&gt;François Portier&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;My current research lies in the field of Approximate Inference. In particular, I am interested in Variational Inference methods involving non-conjugate models and alternative divergence measures (such as the $f$-divergence).&lt;/p&gt;
 &lt;p&gt;&lt;font color=&#34;#99C24D&#34;&gt;Email :&lt;/font&gt; kamelia  &lt;font color=&#34;#99C24D&#34;&gt;[dot]&lt;/font&gt; daudel &lt;font color=&#34;#99C24D&#34;&gt;[at]&lt;/font&gt; telecom-paris &lt;font color=&#34;#99C24D&#34;&gt;[dot]&lt;/font&gt; fr&lt;/p&gt;
