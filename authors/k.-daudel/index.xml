@@ -5,12 +5,20 @@
     <link>https://kdaudel.github.io/authors/k.-daudel/</link>
       <atom:link href="https://kdaudel.github.io/authors/k.-daudel/index.xml" rel="self" type="application/rss+xml" />
     <description>K. Daudel</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Kamélia Daudel 2020 </copyright><lastBuildDate>Thu, 26 Sep 2019 16:34:54 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Kamélia Daudel 2020 </copyright><lastBuildDate>Mon, 25 May 2020 10:52:54 +0100</lastBuildDate>
     <image>
       <url>https://kdaudel.github.io/images/icon_hu6edf84d84cb1ecea9757529adf7a3461_9057_512x512_fill_lanczos_center_2.png</url>
       <title>K. Daudel</title>
       <link>https://kdaudel.github.io/authors/k.-daudel/</link>
     </image>
+    
+    <item>
+      <title>Infinite-dimensional gradient-based descent for alpha-divergence minimisation</title>
+      <link>https://kdaudel.github.io/publication/alphagammadescent/</link>
+      <pubDate>Mon, 25 May 2020 10:52:54 +0100</pubDate>
+      <guid>https://kdaudel.github.io/publication/alphagammadescent/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The $ f $-Divergence Expectation Iteration Scheme</title>
