@@ -5,12 +5,20 @@
     <link>https://kdaudel.github.io/</link>
       <atom:link href="https://kdaudel.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description> </description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Kamélia Daudel 2021 </copyright><lastBuildDate>Thu, 10 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Kamélia Daudel 2021 </copyright><lastBuildDate>Mon, 16 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://kdaudel.github.io/images/icon_hu6edf84d84cb1ecea9757529adf7a3461_9057_512x512_fill_lanczos_center_2.png</url>
       <title> </title>
       <link>https://kdaudel.github.io/</link>
     </image>
+    
+    <item>
+      <title></title>
+      <link>https://kdaudel.github.io/talk/mcm2021/</link>
+      <pubDate>Mon, 16 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://kdaudel.github.io/talk/mcm2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Mixture weights optimisation for Alpha-Divergence Variational Inference</title>
@@ -29,7 +37,7 @@
     </item>
     
     <item>
-      <title>Monte Plateau Seminar</title>
+      <title></title>
       <link>https://kdaudel.github.io/talk/mpseminar/</link>
       <pubDate>Mon, 07 Dec 2020 22:51:18 +0100</pubDate>
       <guid>https://kdaudel.github.io/talk/mpseminar/</guid>
@@ -37,7 +45,7 @@
     </item>
     
     <item>
-      <title>Variational Inference Seminar</title>
+      <title></title>
       <link>https://kdaudel.github.io/talk/viseminar/</link>
       <pubDate>Tue, 24 Nov 2020 22:51:18 +0100</pubDate>
       <guid>https://kdaudel.github.io/talk/viseminar/</guid>
@@ -53,7 +61,7 @@
     </item>
     
     <item>
-      <title>MCQMC 2020</title>
+      <title></title>
       <link>https://kdaudel.github.io/talk/mcqmc2020/</link>
       <pubDate>Mon, 10 Aug 2020 22:51:18 +0100</pubDate>
       <guid>https://kdaudel.github.io/talk/mcqmc2020/</guid>
@@ -61,7 +69,7 @@
     </item>
     
     <item>
-      <title>Bayes Comp 2020</title>
+      <title></title>
       <link>https://kdaudel.github.io/talk/bayescomp/</link>
       <pubDate>Tue, 07 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://kdaudel.github.io/talk/bayescomp/</guid>
@@ -69,7 +77,7 @@
     </item>
     
     <item>
-      <title>Workshop: Probabilistic Methods in Computational Statistics (II)</title>
+      <title></title>
       <link>https://kdaudel.github.io/talk/workshoptsp/</link>
       <pubDate>Fri, 22 Nov 2019 22:51:18 +0100</pubDate>
       <guid>https://kdaudel.github.io/talk/workshoptsp/</guid>
