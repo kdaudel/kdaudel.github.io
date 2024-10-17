@@ -5,7 +5,7 @@
     <link>https://kdaudel.github.io/publication_types/3/</link>
       <atom:link href="https://kdaudel.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Kamélia Daudel 2024 </copyright><lastBuildDate>Fri, 09 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Kamélia Daudel 2021 </copyright><lastBuildDate>Tue, 10 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://kdaudel.github.io/images/icon_hu6edf84d84cb1ecea9757529adf7a3461_9057_512x512_fill_lanczos_center_3.png</url>
       <title>3</title>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>Learning with Importance Weighted Variational Inference: Asymptotics for Gradient Estimators of the VR-IWAE Bound</title>
-      <link>https://kdaudel.github.io/publication/dbsd2023jmlr/</link>
-      <pubDate>Fri, 09 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://kdaudel.github.io/publication/dbsd2023jmlr/</guid>
+      <title>Monotonic Alpha-divergence Minimisation</title>
+      <link>https://kdaudel.github.io/publication/fei/</link>
+      <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://kdaudel.github.io/publication/fei/</guid>
       <description></description>
     </item>
     
