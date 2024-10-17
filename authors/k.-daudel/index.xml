@@ -5,7 +5,7 @@
     <link>https://kdaudel.github.io/authors/k.-daudel/</link>
       <atom:link href="https://kdaudel.github.io/authors/k.-daudel/index.xml" rel="self" type="application/rss+xml" />
     <description>K. Daudel</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Kamélia Daudel 2021 </copyright><lastBuildDate>Tue, 10 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Kamélia Daudel 2024 </copyright><lastBuildDate>Wed, 09 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://kdaudel.github.io/images/icon_hu6edf84d84cb1ecea9757529adf7a3461_9057_512x512_fill_lanczos_center_3.png</url>
       <title>K. Daudel</title>
@@ -13,18 +13,26 @@
     </image>
     
     <item>
-      <title>Monotonic Alpha-divergence Minimisation</title>
-      <link>https://kdaudel.github.io/publication/fei/</link>
-      <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://kdaudel.github.io/publication/fei/</guid>
+      <title>Alpha-divergence Variational Inference Meets Importance Weighted Auto-Encoders: Methodology and Asymptotics</title>
+      <link>https://kdaudel.github.io/publication/dr2024/</link>
+      <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://kdaudel.github.io/publication/dr2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monotonic Alpha-divergence Minimisation for Variational Inference</title>
+      <link>https://kdaudel.github.io/publication/ddr2023jmlr/</link>
+      <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://kdaudel.github.io/publication/ddr2023jmlr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Infinite-dimensional gradient-based descent for alpha-divergence minimisation</title>
-      <link>https://kdaudel.github.io/publication/alphagammadescent/</link>
+      <link>https://kdaudel.github.io/publication/ddp2021aos/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://kdaudel.github.io/publication/alphagammadescent/</guid>
+      <guid>https://kdaudel.github.io/publication/ddp2021aos/</guid>
       <description></description>
     </item>
     
